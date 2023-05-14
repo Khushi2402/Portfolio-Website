@@ -365,8 +365,8 @@ img {
   z-index: var(--z-back);
 }
 
-.skills__web {
-  width: 60%;
+.skills__html {
+  width: 30%;
 }
 
 .skills__ap {
