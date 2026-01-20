@@ -697,7 +697,9 @@ body.dark-theme .button--outline {
   align-items: center;
   gap: 0.35rem;
   transform: translateY(0);
-  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  transition:
+    transform 0.2s ease,
+    box-shadow 0.2s ease;
 }
 
 .skills__chip i {
@@ -785,7 +787,9 @@ body.dark-theme .button--outline {
   background: #ffffff;
   box-shadow: 0 12px 30px rgba(0, 0, 0, 0.06);
   transform: translateY(0) scale(1);
-  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  transition:
+    transform 0.2s ease,
+    box-shadow 0.2s ease;
 }
 
 .work__card img {
